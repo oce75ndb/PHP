@@ -19,22 +19,22 @@
             return $this->_marque;
         }
     
-        // Setter pour le modele
+        // Méthode -> Setter pour le modele
         public function setModele($modele) {
             $this->_modele = $modele;
         }
     
-        // Getter pour le modele
+        // Méthode -> Getter pour le modele
         public function getModele() {
             return $this->_modele;
         }
     
-        // Setter pour les kilomètres
+        // Méthode -> Setter pour les kilomètres
         public function setKm($km) {
             $this->_km = $km;
         }
     
-        // Getter pour les kilomètres
+        // Méthode -> Getter pour les kilomètres
         public function getKm() {
             return $this->_km;
         }
