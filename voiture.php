@@ -44,7 +44,7 @@
     $Voiture1 = new Voiture();
     
     // Renseignement des propriétés
-    $Voiture1->couleur = "Rouge"; // Propriété publique couleur
+    $Voiture1->couleur = "Rouge";
     $Voiture1->setMarque("Toyota");
     $Voiture1->setModele("Corolla");
     $Voiture1->setKm(50000);
