@@ -47,7 +47,7 @@
     $Voiture1->couleur = "Rouge";
     $Voiture1->setMarque("Toyota");
     $Voiture1->setModele("Corolla");
-    $Voiture1->setKm(50000);
+    $Voiture1->setKm(52000);
     
     // Accès aux propriétés
 
